@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "694089712321",
+    "firebase_url": "https://medibridge123-43df0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "medibridge123-43df0",
+    "storage_bucket": "medibridge123-43df0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694089712321:android:68c8785a066bb19e010a40",
+        "android_client_info": {
+          "package_name": "MediBridge.sasank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694089712321-t5vqnmtnem99aq8pl0he13eqa8v26jr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr-zSv_HRSTAcOSKOznho4nT4_00uULLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694089712321-t5vqnmtnem99aq8pl0he13eqa8v26jr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
