@@ -9,7 +9,7 @@ plugins {
 android {
     namespace = "MediBridge.sasank"
     compileSdk = 34
-    ndkVersion = "25.1.8937393"
+    ndkVersion = "21.4.7075529"
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
