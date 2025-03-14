@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">694089712321-t5vqnmtnem99aq8pl0he13eqa8v26jr2.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://medibridge123-43df0-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">694089712321</string>
+    <string name="google_api_key" translatable="false">AIzaSyDr-zSv_HRSTAcOSKOznho4nT4_00uULLY</string>
+    <string name="google_app_id" translatable="false">1:694089712321:android:68c8785a066bb19e010a40</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDr-zSv_HRSTAcOSKOznho4nT4_00uULLY</string>
+    <string name="google_storage_bucket" translatable="false">medibridge123-43df0.firebasestorage.app</string>
+    <string name="project_id" translatable="false">medibridge123-43df0</string>
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+    <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+</resources>

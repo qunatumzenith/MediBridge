@@ -8,21 +8,21 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  firebase_core: ^3.12.1
-  firebase_auth: ^5.5.1
-  cloud_firestore: ^5.6.5
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.15.3
+  cloud_firestore: ^4.13.6
   google_sign_in: ^6.1.6
   provider: ^6.1.1
-  flutter_local_notifications: ^18.0.1
-  geolocator: ^13.0.2
-  url_launcher: ^6.1.6
-  intl: ^0.20.2
+  flutter_local_notifications: ^16.3.0
+  geolocator: ^10.1.0
+  url_launcher: ^6.2.2
+  intl: ^0.18.1
   dialogflow_flutter: ^1.0.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^5.0.0
+  flutter_lints: ^3.0.1
 
 flutter:
   uses-material-design: true
